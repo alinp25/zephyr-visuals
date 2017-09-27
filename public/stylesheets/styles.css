@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #35495c;
+}
+
+nav ul {
+	font-size: 24px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background: #4d4d4d;
+}
+
+nav ul li {
+	float: right;
+}
+
+nav ul li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background: #111;
+}
+
+li {
+	vertical-align: center;
+}
+
+.container {
+	margin: 150px auto;
+	background: #26313d;
+	width: 95%;
+}
+
+.presentationBox {
+	height: 600px;
+	background: #dedede;
+	width: 30%;
+	margin: 0 auto;
+}
+
+.presentationBox image {
+	width: 100%;
+}
